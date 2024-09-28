@@ -1,0 +1,4 @@
+Roy | Grade: 8 | Favorite Subject: Math
+Alice | Grade: 8 | Favorite Subject: Science
+John | Grade: 8 | Favorite Subject: History
+roy | Grade: 8 | Favorite Subject: math
